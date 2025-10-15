@@ -38,3 +38,5 @@ cd meeting-summarizer
 https://github.com/user-attachments/assets/48a392fa-79e1-4b59-a753-341a240a9c97
 
 
+## ✍️ Author
+Mutyala Thanuja

@@ -31,6 +31,9 @@ The app uses **OpenAI Whisper** for transcription and **Google Gemini API** for 
 ```bash
 git clone https://github.com/THANUJA1978/meeting-summarizer.git
 cd meeting-summarizer
+```
+
+## Demo Video
 
 https://github.com/user-attachments/assets/48a392fa-79e1-4b59-a753-341a240a9c97
 
